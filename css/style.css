@@ -1,0 +1,214 @@
+.logo {
+    max-width: 195px;
+    width: 100%;
+}
+.header-wraper {
+    width: 100%;
+    margin-top: 67px;
+    margin-bottom: 267px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list-wraper {
+    max-width: 581px;
+    width: 100%;
+    height: 24px;
+    display: flex;
+}
+.list {
+    color: #3D37F1;
+    font-size: 20px;
+    margin-right: 50px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.div-wraper {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 288px;
+}
+.left-block {
+    max-width: 588px;
+    width: 100%;
+    height: 527px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.right-block {
+    max-width: 801px;
+    width: 100%;
+}
+.banner {
+    width: 100%;
+}
+.div-header {
+    max-width: 600px;
+    width: 100%;
+    height: 203px;
+    font-size: 78px;
+    font-weight: bold;
+}
+.div-description {
+    max-width: 602px;
+    width: 100%;
+    height: 103px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+.div-button {
+    width: 263.67px;
+    height: 76.77px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #3D37F1;
+    border-radius: 38px;
+}
+.wave {
+    width: 106px;
+    height: 32px;
+    font-size: 23px;
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+}
+.container {
+    padding-top: 87;
+    max-width: 1170px;
+    width: 100%;
+    height: 1224px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+.header-a {
+    max-width: 140px;
+    width: 100%;
+    height: 24px;
+    color: #3D37F1;
+    font-size: 20px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 17px;
+}
+.header-b {
+    max-width: 578px;
+    width: 100%;
+    height: 48px;
+    color: #5A5454;
+    font-size: 40px;
+    margin-bottom: 21px;
+}
+.description {
+    max-width: 712px;
+    width: 100%;
+    height: 85px;
+    color: #747474;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 67px;
+}
+.text {
+    max-width: 712px;
+    width: 100%;
+    height: 195px;
+    margin: 0 auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box {
+    max-width: 370px;
+    width: 100%;
+    height: 451px;
+    background-color: coral;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.box:nth-child(1) {
+    background-color: #FBBA77;
+    margin-bottom: 60px;
+}
+.box:nth-child(2) {
+    background-color: #41EAE3;
+    margin-bottom: 60px;
+}
+.box:nth-child(3) {
+    background-color: #69529F;
+    margin-bottom: 60px;
+}
+.box:nth-child(4) {
+    background-color: #4386D2;
+    margin-bottom: 60px;
+}
+.box:nth-child(5) {
+    background-color: #A5A2F6;
+    margin-bottom: 60px;
+}
+.box:nth-child(6) {
+    background-color: #FF8088;
+    margin-bottom: 60px;
+}
+.read {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #FFFFFF;
+    margin-bottom: 48px;
+}
+.read:hover {
+    background-color: #FFFFFF;
+}
+.read:hover .button {
+    color: #4B647E;
+}
+.box-wraper {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box-image {
+    margin-top: 88px;
+    margin-bottom: 57px;
+}
+.box-text {
+    max-width: 328px;
+    width: 100%;
+    height: 62px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 11px;
+}
+.box-header {
+    width: 140px;
+    height: 27px;
+    color: #FFFFFF;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 13px;
+}
+.button {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    color: #FFFFFF;
+}
+.burger-bar { 
+    display: none;
+    font-size: 40px;
+    margin-left: 30px;
+    color: #3D37F1;
+}
+
