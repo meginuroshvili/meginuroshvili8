@@ -23,6 +23,17 @@
     font-family: 'Lato', sans-serif;
     font-weight: bold;
 }
+.burger-bar { 
+    display: none;
+    font-size: 40px;
+    margin-left: 30px;
+    color: #3D37F1;
+    transition: 0.5s linear;
+}
+.burger-bar:hover {
+    font-size: 45px;
+    color: #4B647E;
+}
 .div-wraper {
     display: flex;
     justify-content: space-around;
@@ -205,10 +216,5 @@
     font-family: 'Roboto', sans-serif;
     color: #FFFFFF;
 }
-.burger-bar { 
-    display: none;
-    font-size: 40px;
-    margin-left: 30px;
-    color: #3D37F1;
-}
+
 
